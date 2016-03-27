@@ -22,7 +22,8 @@ keeping a working version of the program.
 
 How do the diagrams help you visualize the branch structure?
 
-A:  
+A: diagrams help visualize the reachability of the commits and which branches they
+belong to. 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
