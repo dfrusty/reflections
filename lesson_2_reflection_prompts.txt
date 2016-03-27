@@ -11,7 +11,8 @@ changed during the commit.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-A:
+A: use git diff to check the changes made. Add one file to the staging area at at
+time.  Develop a habit of commiting every logical change while coding.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
