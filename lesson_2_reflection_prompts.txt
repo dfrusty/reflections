@@ -34,3 +34,6 @@ branches accessible.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+A: pros: saves time, draws programmer's attention to conflicts
+   cons: does not differentiate between the same functions written differently
