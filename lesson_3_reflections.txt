@@ -21,7 +21,8 @@ giving credit to the original author.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-A:
+A: it make is easier to track changes and finding dicrepacies if remote was modified
+by other contributors
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
